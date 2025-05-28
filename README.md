@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Node, and Express.**  
 - 👨‍💻 All of my projects are available at [https://arka79.github.io/portfolio/](https://arka79.github.io/portfolio/)  
-- 💬 Ask me about **HTML, CSS.**  
+- 💬 Ask me about **HTML, CSS and JAVASCRIPT.**
 - 📫 How to reach me: **arkakuilya79@gmail.com**  
 - ⚡ Fun fact: **I am a Gamer.**  
 
