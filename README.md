@@ -6,7 +6,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 - 🌱 I’m currently learning **React, Node, and Express.**  
-- 👨‍💻 All of my projects are available at [https://arkakuilya.in](www.arkakuilya.in)  
+- 👨‍💻 All of my projects are available at [https://arkakuilya.in](https://www.arkakuilya.in)  
 - 💬 Ask me about **HTML, CSS and JAVASCRIPT.**
 - 📫 How to reach me: **arkakuilya79@gmail.com**  
 - ⚡ Fun fact: **I am a Gamer.**  
